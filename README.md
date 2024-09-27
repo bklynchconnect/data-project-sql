@@ -3,7 +3,7 @@
 Welcome to Brian's SQL project! :smile:
 
 ## Project/Goals
-(fill in your description and goals here)
+The goal of this project is really just to show off what I can do in git to students...
 
 ## Process
 ### (your step 1)

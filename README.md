@@ -1,5 +1,7 @@
 # Final-Project-Transforming-and-Analyzing-Data-with-SQL
 
+Welcome to Brian's SQL project! :smile:
+
 ## Project/Goals
 (fill in your description and goals here)
 

@@ -10,7 +10,10 @@ SQL Queries:
 
 Answer:
 
-
+| x | y |
+|-|-|
+| 1 | 2 |
+| 3 | 4 |
 
 
 **Question 2: What is the average number of products ordered from visitors in each city and country?**

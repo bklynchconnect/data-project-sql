@@ -18,6 +18,30 @@ GROUP BY country, city
 ORDER BY sum_revenue DESC
 LIMIT 5
 ```
+`
+SELECT
+	country,
+	city, 
+	SUM(total_transaction_revenue) AS sum_revenue
+FROM
+	all_sessions
+WHERE total_transaction_revenue IS NOT NULL
+GROUP BY country, city
+ORDER BY sum_revenue DESC
+LIMIT 5
+`
+
+SELECT
+	country,
+	city, 
+	SUM(total_transaction_revenue) AS sum_revenue
+FROM
+	all_sessions
+WHERE total_transaction_revenue IS NOT NULL
+GROUP BY country, city
+ORDER BY sum_revenue DESC
+LIMIT 5
+
 
 Answer:
 

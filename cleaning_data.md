@@ -16,3 +16,13 @@ FROM
 	all_sessions
 WHERE total_transaction_revenue IS NOT NULL
 ```
+
+I also needed to remove unknown cities from the data...
+
+```sql
+SELECT
+	*
+FROM
+	all_sessions
+WHERE city != 'not available in demo dataset'
+```

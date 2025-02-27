@@ -45,10 +45,13 @@ LIMIT 5
 
 Answer:
 
-| x | y |
-|-|-|
-| 1 | 2 |
-| 3 | 4 |
+| country | city | total_revenue |
+|-|-|-|
+| United States | not available in demo dataset | 6092560000 |
+| United States | San Francisco | 1564320000 |
+| United States | Sunnyvale | 992230000 |
+| United States | Atlanta | 854440000 |
+| United States | Palo Alto | 608000000 |
 
 ![](question_1.png)
 

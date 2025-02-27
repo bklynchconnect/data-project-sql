@@ -15,6 +15,8 @@ Answer:
 | 1 | 2 |
 | 3 | 4 |
 
+![](question_1.png)
+
 
 **Question 2: What is the average number of products ordered from visitors in each city and country?**
 

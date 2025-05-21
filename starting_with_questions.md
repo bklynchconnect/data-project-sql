@@ -54,7 +54,7 @@ Answer:
 | United States | Atlanta | 854440000 |
 | United States | Palo Alto | 608000000 |
 
-![](images/question_1.png)
+![question 1](images/question_1.png)
 
 
 **Question 2: What is the average number of products ordered from visitors in each city and country?**

@@ -24,6 +24,8 @@ WHERE total_transaction_revenue IS NOT NULL
 | 1 | 2 | 3|
 |4   | 5|    6|
 
+Phew, that worked!
+
 I also needed to remove unknown cities from the data...
 
 ```sql

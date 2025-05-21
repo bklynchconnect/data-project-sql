@@ -18,6 +18,7 @@ GROUP BY country, city
 ORDER BY sum_revenue DESC
 LIMIT 5
 ```
+
 `
 SELECT
 	country,
@@ -53,7 +54,7 @@ Answer:
 | United States | Atlanta | 854440000 |
 | United States | Palo Alto | 608000000 |
 
-![](question_1.png)
+![](images/question_1.png)
 
 
 **Question 2: What is the average number of products ordered from visitors in each city and country?**
